@@ -1,6 +1,6 @@
 # GenAIPABench
 
-For PETS 2024 paper: **GenAIPABench: Benchmark for Generative AI-based Privacy Assistants**
+**GenAIPABench: Benchmark for Generative AI-based Privacy Assistants**
 
 ## Abstract
 Privacy policies on websites can be complex and lengthy, making them challenging for users to understand. Privacy assistants, powered by generative AI (genAI), offer a solution by simplifying these policies. However, the reliability of genAI in delivering accurate information remains a concern. GenAIPABench is introduced as a benchmark to evaluate the effectiveness of genAI-based Privacy Assistants (GenAIPAs). It encompasses a set of privacy-related questions, metrics for evaluating responses, and a tool for generating privacy document prompts to test system robustness. The benchmark was applied to leading genAI systems—ChatGPT-4, Bard, and Bing AI—revealing significant potential, alongside challenges in managing complex queries, ensuring consistency, and verifying source accuracy.
