@@ -1,0 +1,112 @@
+id_question,category,question,annotated_answer
+T_f1,Transparency,Does the policy clearly outline data collection practices?,"Yes, according to Spotify's privacy policy, they collect your data when you sign up for the service or update your account categories. This data collection is described under the CCPA (California Consumer Privacy Act) as ""Identifiers.""
+
+Profile Name, Email Address, Password: These are used to establish and secure your unique Spotify account.
+
+Phone Number: May be used for account recovery or additional contact.
+
+Date of Birth, Gender: These demographic details can help Spotify personalize its service and recommendations for you.
+
+Street Address, Country: Spotify collects this geographic data for tax purposes and to provide location-specific services. It could also be used to verify eligibility for certain service options, deliver legal notices, or send physical goods that you have requested.
+
+University/College: If you are a student and wish to avail of the Spotify Premium Student discount, Spotify will need to verify your student status, hence the need for your university or college information.
+
+ Reference (Part 2)"
+T_f2,Transparency,What is the company’s stance on government requests for user data?,"Spotify is subjected to legal or contractual obligations that require them to keep or delete user data.
+
+Legal or Contractual Obligation: There may be circumstances where Spotify is obligated by law or a contract to retain certain user data. This could be due to mandatory data retention laws, government orders to preserve data relevant to an investigation, or data kept for the purposes of litigation.
+
+Removal of Unlawful Content: Spotify states that they will remove unlawful content if required by law. This ensures that Spotify complies with legal requirements while also maintaining the integrity and safety of the platform for users. Reference: Part 3"
+T_f3,Transparency,How does the privacy policy address potential conflicts of interest in data usage or sharing?,No information provided. Reference: N/A
+T_u1,Transparency,What sort of data is collected from me while using this?,"When using Spotify, a variety of personal data categories are collected, including:
+
+User Data (Identifiers):
+
+Purpose: To create and manage your Spotify account.
+Data Collected: Includes profile name, email address, password, phone number, date of birth, gender, street address, country, and university/college information (for Spotify Premium Student users). Collected from your sign-up form, account page, and device (e.g., country or region).
+Street Address Data (Identifiers):
+
+Purpose: For eligibility checks, legal notices, billing, tax administration, and delivery of physical goods or gifts.
+Data Collected: Your street address, sometimes verified through third-party applications like Google Maps.
+Usage Data:
+
+Types: Internet or other electronic network activity information, and inferences.
+Data Collected: Service option, search queries, streaming history, playlists, library, browsing history, account settings, interactions with other users, technical data (URL information, online identifiers, device information), location data, and device sensor data.
+Voice Data:
+
+Purpose: For voice features where available and opted-in.
+Data Collected: Audio recordings and transcripts of your voice interactions.
+Payment and Purchase Data (Commercial Information):
+
+Purpose: For processing purchases or subscriptions.
+Data Collected: Name, date of birth, payment method details, ZIP/postal code, phone number, purchase and payment history.
+Survey and Research Data:
+
+Purpose: For surveys or user research participation.
+Data Collected: Varied personal data provided in your responses.  Reference Part 2"
+UC_f1,User Control,Are users given control over their data and privacy settings?,"Yes, Spotify users are granted control over their data and privacy settings. This is especially applicable to the way tailored advertising is handled on the platform."
+UC_f2,User Control,Are there clear mechanisms for users to request data deletion or access?,"Yes, Spotify gives users certain rights and controls over their personal data.
+
+Access to Personal Data: Spotify allows users to request a copy of their personal data. You can use the ""Download your data"" tool in your account privacy settings or contact Spotify directly. The downloaded data will contain the information that Spotify is legally obliged to provide under applicable laws. If you need more details about how your data is processed, you can contact Spotify.
+
+Correction of Personal Data: If your personal data is inaccurate or incomplete, you can request Spotify to amend or update it. This can be done by editing your user data under the ""Edit profile"" section in your account or by contacting Spotify.
+
+Erasure of Personal Data: You can also request the erasure of your personal data by contacting Spotify or reaching out to their customer support via their chatbot.
+
+Right to Limit Processing: If you're a resident of California, you can request Spotify to limit the processing of sensitive personal data if it's being used or disclosed for purposes other than those specified in Section 7027(m) of the CCPA Regulations. Reference: Part 1"
+UC_f3,User Control,How does the company manage consent and withdrawal of consent from users?,"Spotify provides users with the right to withdraw their consent for the collection or use of their personal data, particularly when the processing is based on the legal basis of consent. Here are the ways to exercise this right:
+
+Adjust the Relevant Control on Spotify: You can directly manage your privacy settings on Spotify to adjust the data that Spotify collects and uses.
+
+Contact Spotify: You can also reach out to Spotify directly to withdraw your consent for data processing.
+
+Furthermore, Spotify states that they will not discriminate against you for exercising any of your rights under any privacy law. To verify a consumer request to know, request to delete, and request to correct, they ask you to provide certain details related to your Spotify account. Reference Part 1
+
+"
+UC_u1,User Control,Can i opt out of letting them collect data and still use the app?,No information provided.N/A
+DM_f1,Data Minimization and Purpose Limitation,Does the company minimize data retention periods?,"No, Spotify's privacy policy indicates that the company retains user data for as long as necessary.N/A"
+DM_f2,Data Minimization and Purpose Limitation,How is user data anonymized or aggregated to protect individual privacy?,"Spotify protects individual privacy by either deleting or anonymizing user data upon account deletion. This means that when a user chooses to delete their Spotify account, the company takes steps to ensure that the user's personal data is no longer identifiable. Either the data is completely removed (deleted), or it is processed (anonymized) in such a way that the individual user cannot be identified from it, thereby safeguarding their privacy."
+DM_f3,Data Minimization and Purpose Limitation,Are there any restrictions on data processing for specific purposes or contexts?,No explicit mention. Reference :N/A
+DM_u1,Data Minimization and Purpose Limitation,How long is my data stored?,Spotify's privacy policy indicates that the company retains user data for as long as necessary.Part 4
+SE_f1,Security and Encryption,Are user communications encrypted end-to-end?,"Yes, Spotify's privacy policy details that they use measures such as encryption to protect users' data. They implement technical protections, including encryption and pseudonymization, to secure your data. Furthermore, they have policies and processes in place to challenge disproportionate or unlawful government authority requests. Reference (Part 4)"
+SE_f2,Security and Encryption,What measures are in place to prevent unauthorized access to user data?,Spotify utilizes encryption and pseudonymization as methods to secure and protect users' data. Reference: Part 4
+SE_f3,Security and Encryption,How are data breaches or security incidents handled and communicated to users?,No information provided. Reference :N/A
+SE_u1,Security and Encryption,How well secured is my private information?,"Spotify employs various technical and organizational measures to protect your data, such as pseudonymization, encryption, access, and retention policies. They also advise users to use strong passwords and take steps to secure their accounts.Part 4"
+PD_f1,Privacy by Design and Innovation,Does the company conduct privacy impact assessments?,Not mentioned explicitly in policy. Reference :N/A
+PD_f2,Privacy by Design and Innovation,"Are there privacy-enhancing technologies implemented, such as differential privacy?"," Spotify does mention using privacy-enhancing technologies to protect user data. These technologies include encryption and pseudonymization, which are commonly used methods to ensure data security and privacy. But It does not mention differential privacy. Reference Part 3"
+PD_f3,Privacy by Design and Innovation,"Does the company use automated decision-making or profiling, and if so, how does it impact user privacy?","Spotify does not engage in automated decision-making or profiling in its service that would have a legal effect on users or produce a similarly significant effect. This means that Spotify does not use algorithms or systems to make decisions that would significantly impact users' legal rights or their private lives without human involvement. Users also have the right not to be subject to such decisions based solely on automated processing, including profiling, ensuring a greater degree of control and privacy in their interactions with the service."
+PD_u1,Privacy by Design and Innovation,What sort of analytics will my data be subjected to?,"Your data on Spotify will be analyzed for:
+
+Developing new features and improvements.
+Personalizing recommendations.
+Analyzing user reactions to features.
+Conducting surveys and research."
+RC_f1,Responsiveness and Communication,Is the privacy policy regularly updated and communicated to users?,"Spotify's privacy policy is subject to occasional modifications. These changes can range from minor adjustments to significant, material alterations that impact how user data is handled. Spotify commits to informing users of any material changes in a clear and conspicuous manner. Notifications may be delivered through various methods, including in-service alerts such as pop-ups or banners within the Spotify app or website, or through external communications like emails or device notifications. Reference: (Part 4)  "
+RC_f2,Responsiveness and Communication,Is there a process in place to address user privacy complaints?,"Spotify has established channels for users to express concerns or ask questions about their privacy policy. Users can contact Spotify's Data Protection Officer directly via email at privacy@spotify.com. Alternatively, users can send a letter to Spotify's physical address at Spotify USA Inc., 150 Greenwich Street, Floor 62, New York, NY 10007, USA. These methods provide users with accessible avenues to address privacy-related inquiries or complaints, ensuring that their concerns can be communicated directly to the company. Reference: (Part 4)  "
+RC_f3,Responsiveness and Communication,"Does the company publish transparency reports detailing government data requests, surveillance, or law enforcement interactions?",Not mentioned explicitly in policy. Reference :N/A
+RC_u1,Responsiveness and Communication,Has there ever been a security breach?,Not mentioned explicitly in policy. Reference :N/A
+AEE_f1,"Accessibility, User Education and Empowerment",Are employees trained on data privacy best practices and handling sensitive information?,"Spotify's privacy policy does not explicitly mention whether or not their employees receive specific training on handling sensitive information and the best practices for data privacy.     
+Reference: N/A"
+AEE_f2,"Accessibility, User Education and Empowerment",How are user data privacy preferences managed across different devices or platforms?,"Spotify's privacy policy applies universally across all its streaming services on any device and platform. This includes both free and paid streaming options, as well as other services linked to this policy like Spotify websites and customer service. The policy also covers new or additional services introduced by Spotify. However, it's distinct from the Spotify Terms of Use, which is a separate legal agreement. Reference Part 1"
+AEE_f3,"Accessibility, User Education and Empowerment","Does the company offer user-friendly resources, such as tutorials or guides, to help users effectively manage their privacy settings and understand their data rights?","Spotify offers additional privacy resources and controls for its users to understand their data handling practices better:
+
+Privacy Center: This is a user-friendly hub containing summaries of key topics and helpful videos. It includes a video called ""Your Privacy Controls"", which guides users on how to exercise their rights and make choices about the way Spotify processes their data. Reference :Part 1
+
+"
+AEE_u1,"Accessibility, User Education and Empowerment",Does it share any data with a third party?,"Yes, according to the information provided, Spotify does share some data with third parties. Here are the key points regarding data sharing with third parties:
+
+Authentication Partners: If you use another service to register for or log into Spotify, that service sends information to Spotify to create your account.
+
+Third-Party Applications, Services, and Devices: If you connect your Spotify account to third-party applications, services, or devices, Spotify may collect and use information from these sources to facilitate the integration.
+
+Technical Service Partners: Spotify works with technical service partners who provide them with data, including mapping IP addresses to non-precise location data. These partners also help in providing the Spotify Service, content, and features, as well as in account security.
+
+Payment Partners and Merchants: For payment processing and purchases, Spotify receives data from payment partners. This includes information for invoicing, payment processing, and purchase delivery. Data from merchants is also received, particularly when they direct you to third-party platforms for purchases.
+
+Advertising and Marketing Partners: Spotify receives inferences about your interests and preferences from certain advertising or marketing partners. This data is used to deliver more relevant ads and marketing content.
+
+Acquired Companies: Data may also be received from companies that Spotify acquires, to enhance their services, products, and offerings. Part 2"
+CA_f1,Compliance and Accountability,Does the policy comply with applicable privacy laws and regulations?,"While Spotify's privacy policy does mention compliance with the California Consumer Privacy Act (CCPA), it does not explicitly state whether the policy conforms to all relevant privacy laws and regulations."
+CA_f2,Compliance and Accountability,What steps are taken to ensure data processors and subprocessors adhere to privacy requirements?,"To ensure each data transfer complies with applicable EU legislation, we use the following legal mechanisms: Standard Contractual Clauses (SCCs). These clauses require the other party to protect your data and to provide you with EU-level rights and protections. Reference: Part 4"
+CA_f3,Compliance and Accountability,"Does the company have a process in place for reporting and addressing privacy violations or non-compliance issues, both internally and with third-party vendors?",No information provided. Reference: N/A
+CA_u1,Compliance and Accountability,Do I have any rights as far as whether I want my account info deleted?,"It depends on the situation. Deletion Request that we delete certain of your personal data. For example, you can ask us to delete your personal data: that we no longer need for the purpose it was collected for that we process based on the legal basis of consent, and you withdraw your consent when you object (see section Object below) and you make a justified objection, or you object to direct marketing There are situations where Spotify is unable to delete your data, for example when: its still necessary to process the data for the purpose we collected it for Spotifys interest in using the data overrides your interest in having it deleted. Part 1"
