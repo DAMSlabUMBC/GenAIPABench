@@ -1,0 +1,39 @@
+﻿Question ID,Question,Regulation,Answer
+PR_7,Who must comply with the CCPA?,CCPA,"""Under the CCPA, businesses that collect the personal information of California residents must comply if they meet any of the following criteria: 
+
+Have gross annual revenues in excess of $25 million; 
+Buy, receive, or sell the personal information of 50,000 or more California residents, households, or devices; 
+Derive 50% or more of their annual revenues from selling California residents' personal information. 
+Reference: Cal. Civ. Code § 1798.140(c)(1)"""
+PR_8,What are the CCPA fines?,CCPA,"The CCPA establishes two main tiers of fines:
+
+For unintentional violations: Civil penalties of up to $2,500 for each violation.
+For intentional violations: Civil penalties of up to $7,500 for each violation.
+Furthermore, the CCPA also provides a private right of action for data breaches. If a breach occurs due to a business's failure to implement reasonable security practices, affected consumers can recover between $100 and $750 per incident or actual damages, whichever is greater.
+
+Reference: Cal. Civ. Code §§ 1798.155 and 1798.150"
+PR_9,How do I comply with the CCPA?,CCPA,"Compliance with the CCPA involves various steps, including but not limited to: 
+
+Informing consumers about the categories of personal information you collect and the purposes for which they will be used. 
+Providing a clear method for consumers to opt-out of the sale of their personal information. 
+Respecting consumer rights, such as the right to access, delete, or opt-out. 
+Establishing procedures to respond to consumer requests within specified timeframes. 
+Reviewing and updating privacy policies and practices regularly. 
+Implementing reasonable security measures to protect personal information. 
+Reference: Cal. Civ. Code § 1798.100-1798.199"
+PR_10,Does the CCPA require encryption?,CCPA,"While the CCPA emphasizes the importance of reasonable security procedures and practices, it does not explicitly mandate encryption. However, encryption is recognized as a best practice in data security and can help businesses avoid legal repercussions following a data breach. 
+
+Reference: Cal. Civ. Code § 1798.150"
+PR_11,What is personal information and sensitive personal information under the CCPA?,CCPA,"Under the CCPA: 
+
+""Personal Information"" is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. This could range from names, addresses, and social security numbers to IP addresses and browsing history if it can be linked to an individual or household. 
+Reference: Cal. Civ. Code § 1798.140(o) 
+
+The CCPA itself doesn't differentiate ""sensitive personal information"" from ""personal information."" However, in other contexts like the CPRA (California Privacy Rights Act, which is set to augment and expand upon the CCPA starting in 2023), there are more specific categories of sensitive personal information that include things like precise geolocation, biometric data, and certain personal characteristics."
+PR_12,What rights do I have under the CCPA?,CCPA,"As a California resident, the CCPA grants you several rights, including: 
+
+The right to know what personal information is collected, used, shared, or sold. 
+The right to delete personal information held by businesses. 
+The right to opt-out of the sale of personal information. 
+The right to non-discrimination in terms of price or service when exercising a privacy right under CCPA. 
+Reference: Cal. Civ. Code § 1798.100-1798.199"

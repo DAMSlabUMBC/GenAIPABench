@@ -1,0 +1,33 @@
+id_question,category,question
+T_f1,Transparency, Does the policy clearly outline data collection practices? 
+T_f2,Transparency,What is the company’s stance on government requests for user data?
+T_f3,Transparency,How does the privacy policy address potential conflicts of interest in data usage or sharing?
+T_u1,Transparency,What sort of data is collected from me while using this?
+UC_f1,User Control,Are users given control over their data and privacy settings?
+UC_f2,User Control,Are there clear mechanisms for users to request data deletion or access?
+UC_f3,User Control,How does the company manage consent and withdrawal of consent from users?
+UC_u1,User Control,Can i opt out of letting them collect data and still use the app?
+DM_f1,Data Minimization and Purpose Limitation,Does the company minimize data retention periods?
+DM_f2,Data Minimization and Purpose Limitation,How is user data anonymized or aggregated to protect individual privacy? 
+DM_f3,Data Minimization and Purpose Limitation,Are there any restrictions on data processing for specific purposes or contexts?
+DM_u1,Data Minimization and Purpose Limitation,How long is my data stored?
+SE_f1,Security and Encryption,Are user communications encrypted end-to-end?
+SE_f2,Security and Encryption,What measures are in place to prevent unauthorized access to user data?
+SE_f3,Security and Encryption,How are data breaches or security incidents handled and communicated to users?
+SE_u1,Security and Encryption,How well secured is my private information? 
+PD_f1,Privacy by Design and Innovation,Does the company conduct privacy impact assessments?
+PD_f2,Privacy by Design and Innovation,"Are there privacy-enhancing technologies implemented, such as differential privacy?"
+PD_f3,Privacy by Design and Innovation,"Does the company use automated decision-making or profiling, and if so, how does it impact user privacy?"
+PD_u1,Privacy by Design and Innovation,What sort of analytics will my data be subjected to?
+RC_f1,Responsiveness and Communication,Is the privacy policy regularly updated and communicated to users?
+RC_f2,Responsiveness and Communication,Is there a process in place to address user privacy complaints?
+RC_f3,Responsiveness and Communication,"Does the company publish transparency reports detailing government data requests, surveillance, or law enforcement interactions?"
+RC_u1,Responsiveness and Communication,Has there ever been a security breach? 
+AEE_f1,"Accessibility, User Education and Empowerment",Are employees trained on data privacy best practices and handling sensitive information?
+AEE_f2,"Accessibility, User Education and Empowerment",How are user data privacy preferences managed across different devices or platforms?
+AEE_f3,"Accessibility, User Education and Empowerment","Does the company offer user-friendly resources, such as tutorials or guides, to help users effectively manage their privacy settings and understand their data rights?"
+AEE_u1,"Accessibility, User Education and Empowerment",Does it share any data with a third party? 
+CA_f1,Compliance and Accountability,Does the policy comply with applicable privacy laws and regulations?
+CA_f2,Compliance and Accountability,What steps are taken to ensure data processors and subprocessors adhere to privacy requirements?
+CA_f3,Compliance and Accountability,"Does the company have a process in place for reporting and addressing privacy violations or non-compliance issues, both internally and with third-party vendors?"
+CA_u1,Compliance and Accountability,Do I have any rights as far as whether I want my account info deleted? 
